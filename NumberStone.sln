@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberStone", "NumberStone\NumberStone.csproj", "{BCD127A3-FE9F-4FE5-BE13-4B7FE263096D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTest", "NumberTest\NumberTest.csproj", "{00C5A50A-7FA8-4ECD-BB91-00EA54CDD649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD127A3-FE9F-4FE5-BE13-4B7FE263096D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD127A3-FE9F-4FE5-BE13-4B7FE263096D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD127A3-FE9F-4FE5-BE13-4B7FE263096D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD127A3-FE9F-4FE5-BE13-4B7FE263096D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C5A50A-7FA8-4ECD-BB91-00EA54CDD649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C5A50A-7FA8-4ECD-BB91-00EA54CDD649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C5A50A-7FA8-4ECD-BB91-00EA54CDD649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C5A50A-7FA8-4ECD-BB91-00EA54CDD649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
